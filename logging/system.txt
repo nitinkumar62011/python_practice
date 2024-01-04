@@ -1,0 +1,17 @@
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:02:39,317:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
+2024-01-05 01:03:14,713:CRITICAL:c:\Users\hp\Desktop\python library\python_practice\logging System failure Please look into  
