@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/python%20library/mlflow_dvc/mlruns/0/99556b1684ff47e38c0dbe49b992ef60/artifacts
+end_time: 1709570362761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99556b1684ff47e38c0dbe49b992ef60
+run_name: wistful-swan-852
+run_uuid: 99556b1684ff47e38c0dbe49b992ef60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709570362714
+status: 3
+tags: []
+user_id: hp

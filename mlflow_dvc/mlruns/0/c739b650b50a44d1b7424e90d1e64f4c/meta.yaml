@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/python%20library/mlflow_dvc/mlruns/0/c739b650b50a44d1b7424e90d1e64f4c/artifacts
+end_time: 1709570608614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c739b650b50a44d1b7424e90d1e64f4c
+run_name: nebulous-carp-273
+run_uuid: c739b650b50a44d1b7424e90d1e64f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709570608551
+status: 3
+tags: []
+user_id: hp
